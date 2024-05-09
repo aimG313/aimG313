@@ -1,7 +1,7 @@
 ![logo](https://github.com/TopG1453/TopG1453/blob/main/My%20Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Ashraful Islam Mahi</h1>
-<h3 align="center">Arduino & IoT Expert || Python Developer || AI & ML Enthusiast</h3>
+<h3 align="center">I'm a BSc undergrad student of EEE. Besides my academics, I've expertise over Arduino & IoT. After that I've mastered my skill over Python development. Last but not least, I'm a enthusiast of openCV,NLP,GenAI,LLM, LangChain etc to dive into the AI and ML world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=topg1453&label=Profile%20views&color=0e75b6&style=flat" alt="topg1453" /> </p>
 
@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topg1453&show_icons=true&locale=en" alt="topg1453" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topg1453&" alt="topg1453" /></p>
+
