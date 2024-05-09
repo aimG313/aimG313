@@ -1,4 +1,3 @@
-<img src = " https://media.licdn.com/dms/image/D5616AQGIQ1lVY43anw/profile-displaybackgroundimage-shrink_350_1400/0/1715278896659?e=1720656000&v=beta&t=6yiCSAjc7Uzp48HEEggqCrcMumUZrNDhfZSj5xLVqkI ">
 
 
 <h1 align="center">Hi 👋, I'm Ashraful Islam Mahi</h1>
