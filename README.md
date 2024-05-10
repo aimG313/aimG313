@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Ashraful Islam Mahi</h1>
 <h3 align="center">I'm a BSc undergrad student of EEE. Besides my academics, I've expertise over Arduino & IoT. After that I've mastered my skill over Python development. Last but not least, I'm a enthusiast of openCV,NLP,GenAI,LLM, LangChain etc to dive into the AI and ML world.</h3>
 
+<img alter = "coding" width = "400" align = "right" src = "https://github.com/TopG1453/TopG1453/blob/main/gif.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=topg1453&label=Profile%20views&color=0e75b6&style=flat" alt="topg1453" /> </p>
 
 - 💻 I’m currently learning **AI,ML, LLM ,Langchain etc.**
