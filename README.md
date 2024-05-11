@@ -1,4 +1,4 @@
-![logo](https://github.com/TopG1453/TopG1453/blob/main/My%20Github%20Banner.png)
+![logo](https://github.com/TopG1453/TopG1453/blob/main/My%20Github%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Ashraful Islam Mahi</h1>
 <h3 align="center">I'm a BSc undergrad student of EEE. Besides my academics, I've expertise over Arduino & IoT. After that I've mastered my skill over Python development. Last but not least, I'm a enthusiast of openCV,NLP,GenAI,LLM, LangChain etc to dive into the AI and ML world.</h3>
