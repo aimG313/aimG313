@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://x.com/aimG313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="topg_mahi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashraful-islam-mahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashraful-islam-mahi" height="30" width="40" /></a>
-<a href="https://fb.com/ashrful.mahi.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashrful.mahi.5" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ashraful.mahi.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashrful.mahi.5" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aimg_313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="topgmahi" height="30" width="40" /></a>
 </p>
 
