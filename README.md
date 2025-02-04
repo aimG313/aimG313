@@ -9,9 +9,9 @@
 
 - 💻 I’m currently learning **AI,ML, LLM ,Langchain etc.**
 
-- 📃My Portfolio [https://ashrafulmahi.rf.gd/]()
+- 📃My Portfolio []()
 
-- 👨‍💻 All of my projects are available at [https://ashrafulmahi.rf.gd/]()
+- 👨‍💻 All of my projects are available at []()
 
 - 📝 I regularly write articles on [https://ashrafulmahi.rf.gd/why-to-learn-python/](https://ashrafulmahi.rf.gd/why-to-learn-python/)
 
