@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=topg1453&label=Profile%20views&color=0e75b6&style=flat" alt="topg1453" /> </p>
 
-- 💻 I’m currently learning **AI,ML, LLM ,Langchain etc.**
+- 💻 I’m currently learning **Python Full Stack Development**
 
 - 📃My Portfolio []()
 
