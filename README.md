@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at []()
 
-- 📝 I regularly write articles on [https://ashrafulmahi.rf.gd/why-to-learn-python/](https://ashrafulmahi.rf.gd/why-to-learn-python/)
+- 📝 I regularly write articles on []()
 
 - 📫 How to reach me [ashrafulmahi313@gmail.com](ashrafulmahi313@gmail.com)
 
