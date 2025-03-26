@@ -133,5 +133,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aimG313&show_icons=true&locale=en" alt="aimG313" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimG313&" alt="aimG313" /></p>
+
+
 
